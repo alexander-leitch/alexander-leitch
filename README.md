@@ -4,6 +4,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/alexander-leitch/StrapDown.js/network/)
 [![wakatime](https://wakatime.com/badge/user/87e17d75-04ac-4da7-8e0e-80ac899b9633.svg)](https://wakatime.com/@87e17d75-04ac-4da7-8e0e-80ac899b9633)
+
 <!--
 
 https://github.com/rzashakeri/beautify-github-profile/blob/master/readme.md
